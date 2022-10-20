@@ -1,14 +1,3 @@
-# Code to download images from multiple satellites.
-
-import zipfile
-import os
-import requests
-
-import numpy as np
-
-import ee
-import rasterio
-
 def getSentinalS2_S1Image(lon, lat, sze, filename, dateMin = '2020-04-01', dateMax = '2020-04-30', vmin = 0, vmax = 3500, satellites = ['S2','S1'], 
                           bands=['B2','B3','B4','B5','B6','B7','B8','B8A','B9','B11','B12'], scale=10):
     '''    
