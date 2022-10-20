@@ -12,3 +12,5 @@ zlib
 base64
 io
 json
+earthengine-api
+sys
