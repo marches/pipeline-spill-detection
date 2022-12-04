@@ -4,7 +4,7 @@ Our 210 Capstone Project through the UC Berkeley MIDS degree program is focused 
 
 ### Usage
 
-Our notebook runs in [Google Colab](https://colab.research.google.com/).
+Our notebook runs in [Google Colab](https://colab.research.google.com/github/marches/pipeline-spill-detection/blob/main/Oil_Spill_Team_Notebook_Final.ipynb#s0).
 
 ##### Google Earth Engine Access
 Request access and sign up for Google Earth Engine [here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjhhPOU6eD7AhUcrYkEHelICAkQFnoECA0QAQ&url=https%3A%2F%2Fsignup.earthengine.google.com%2F&usg=AOvVaw1TbfkAxnIa4uoNJjKeuECF). 
