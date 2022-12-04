@@ -1,4 +1,4 @@
-# Terrestrial oil spill detection leveraging Google Earth Engine
+# Terrestrial oil spill monitoring leveraging Google Earth Engine
 
 Our 210 Capstone Project through the UC Berkeley MIDS degree program is focused on using Google Earth Satellite Imagery to identify terrestrial oil spills affecting local ecosystems, [Indigenous Nations](https://public.tableau.com/app/profile/maddie.dilullo.byrne/viz/CrudeOilxWaterbodiesxTerritories/Sheet1), and the environment. Using satellite images and feature analysis, we are applying various machine learning models to identify oil spills, recommend models & resources for future detection, and democratize satellite imaging data for environmentally-focused non-profits who seek to use Google Earth Satellite resources towards the fight against climate change.
 
