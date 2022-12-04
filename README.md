@@ -20,5 +20,5 @@ Request access and sign up for Google Earth Engine [here](https://www.google.com
 * [Fabian Löw](https://www.researchgate.net/scientific-contributions/Fabian-Loew-75888666)
 * [David Bartecchi](https://public.tableau.com/app/profile/david.bartecchi8297/viz/PipelinesandSpillinIndianCountry2012-2020/Dashboard12)
 
-## Further Reading
+### Further Reading
 * [Pipelines in the Ceded Territories](https://www.stopline3.org/line5)
